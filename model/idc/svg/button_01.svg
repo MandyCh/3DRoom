@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="52.35px" height="12.97px" viewBox="0 0 52.35 12.97" enable-background="new 0 0 52.35 12.97" xml:space="preserve">
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="8.2046" y1="0.3906" x2="8.2046" y2="12.3983">
+		<stop  offset="0" style="stop-color:#606269"/>
+		<stop  offset="0.1281" style="stop-color:#43454B"/>
+		<stop  offset="0.2365" style="stop-color:#43454B"/>
+		<stop  offset="1" style="stop-color:#43454B"/>
+	</linearGradient>
+	<rect x="-0.004" y="0.026" fill="url(#SVGID_1_)" width="16.417" height="12.917"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="26.1411" y1="0.3906" x2="26.1411" y2="12.3983">
+		<stop  offset="0" style="stop-color:#606269"/>
+		<stop  offset="0.1281" style="stop-color:#43454B"/>
+		<stop  offset="0.2365" style="stop-color:#43454B"/>
+		<stop  offset="1" style="stop-color:#43454B"/>
+	</linearGradient>
+	<rect x="16.746" y="0.026" fill="url(#SVGID_2_)" width="18.791" height="12.917"/>
+	<polyline fill="none" stroke="#D8D8D8" stroke-miterlimit="10" points="10.538,3.371 5.871,6.521 10.538,9.6 	"/>
+	
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="4978.8945" y1="0.3906" x2="4978.8945" y2="12.3974" gradientTransform="matrix(-1 0 0 1 5023.0352 0)">
+		<stop  offset="0" style="stop-color:#606269"/>
+		<stop  offset="0.1281" style="stop-color:#43454B"/>
+		<stop  offset="0.2365" style="stop-color:#43454B"/>
+		<stop  offset="1" style="stop-color:#43454B"/>
+	</linearGradient>
+	<rect x="35.933" y="0.026" fill="url(#SVGID_3_)" width="16.417" height="12.917"/>
+	<polyline fill="none" stroke="#D8D8D8" stroke-miterlimit="10" points="41.808,3.371 46.475,6.521 41.808,9.6 	"/>
+	<polyline fill="none" stroke="#D8D8D8" stroke-miterlimit="10" points="21.433,7.291 24.995,10.479 30.725,4.02 	"/>
+</g>
+</svg>
